@@ -1,4 +1,6 @@
-# Introduction to microservices with Nic Jackson of Hashicorp
+# Introduction to microservices 
+Following along Introduction to microservices with Nic Jackson of Hashicorp
+
 https://github.com/nicholasjackson/building-microservices-youtube
 
 # Quickstart
@@ -6,5 +8,5 @@ https://github.com/nicholasjackson/building-microservices-youtube
 $ cd ~/github/adamturn
 $ git clone https://github.com/adamturn/go-microservice.git && cd go-microservice
 $ go run main.go
-$ curl -v -d "Adam" localhost:9090
+$ curl localhost:9090
 ```
